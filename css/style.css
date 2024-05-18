@@ -1,0 +1,13 @@
+p{
+    font-size: 35px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    
+    color: #434046;
+}
+body{
+    background-image: url("../i\ will\ kill\ route.jpg");
+    background-size: contain;
+    background-position: center;
+}
